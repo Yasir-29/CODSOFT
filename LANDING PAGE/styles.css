@@ -1,0 +1,23 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.hero {
+    background: black;
+    color: white;
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.navbar-nav .nav-link.active {
+    font-weight: bold;
+    color: #0d6efd !important;
+}
+
+.card {
+    width: 20rem;
+    height: 80vh;
+}
